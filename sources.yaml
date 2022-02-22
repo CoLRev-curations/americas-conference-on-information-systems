@@ -1,0 +1,10 @@
+- filename: DBLP.bib
+  search_type: FEED
+  source_name: Americas Confereence on Information Systems
+  source_url: ''
+  search_parameters: 
+    - endpoint: dblp
+      params: 
+        venue_key: conf/amcis
+        journal_abbreviated: amcis
+  comment: ''
