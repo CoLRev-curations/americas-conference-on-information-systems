@@ -8,3 +8,11 @@
         venue_key: conf/amcis
         journal_abbreviated: amcis
   comment: ''
+- filename: pdfs.bib
+  search_type: PDFS
+  source_name: AMCIS
+  source_url: pdfs
+  outlet: conference=Americas Conference on Information Systems
+  sub_dir_pattern: year
+  search_parameters: NA
+  comment: NA
