@@ -9,10 +9,10 @@
         journal_abbreviated: amcis
   comment: ''
 - filename: pdfs.bib
-  search_type: PDFS
+  search_type: FEED
   source_name: AMCIS
   source_url: pdfs
-  outlet: conference=Americas Conference on Information Systems
-  sub_dir_pattern: year
-  search_parameters: NA
+  search_parameters:
+  - endpoint: pdfs_directory
+    params: SCOPE path='pdfs' WITH conference='Americas Conference on Information Systems' AND sub_dir_pattern='year'
   comment: NA
