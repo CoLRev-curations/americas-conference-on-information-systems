@@ -1,16 +1,16 @@
-atomic_steps: 129516
-completed_atomic_steps: 76583
+atomic_steps: 129500
+completed_atomic_steps: 77259
 completeness_condition: false
 currently:
   exclusion: {}
   md_duplicates_removed: 7288
-  md_imported: 336
-  md_needs_manual_preparation: 595
-  md_prepared: 2757
+  md_imported: 0
+  md_needs_manual_preparation: 596
+  md_prepared: 3088
   md_processed: 0
   md_retrieved: 0
-  non_completed: 6420
-  non_processed: 3688
+  non_completed: 6416
+  non_processed: 3684
   pdf_imported: 0
   pdf_needs_manual_preparation: 4
   pdf_needs_manual_retrieval: 2728
@@ -19,15 +19,15 @@ currently:
   pdf_prepared: 0
   rev_excluded: 0
   rev_included: 0
-  rev_prescreen_excluded: 77
+  rev_prescreen_excluded: 81
   rev_prescreen_included: 0
   rev_synthesized: 6998
-nr_curated_records: 9807
+nr_curated_records: 9811
 overall:
   md_imported: 13495
-  md_needs_manual_preparation: 13159
-  md_prepared: 12564
-  md_processed: 9807
+  md_needs_manual_preparation: 13495
+  md_prepared: 12899
+  md_processed: 9811
   md_retrieved: 20783
   pdf_imported: 7002
   pdf_needs_manual_preparation: 7002
@@ -36,8 +36,8 @@ overall:
   pdf_prepared: 6998
   rev_excluded: 0
   rev_included: 6998
-  rev_prescreen: 9807
-  rev_prescreen_excluded: 77
+  rev_prescreen: 9811
+  rev_prescreen_excluded: 81
   rev_prescreen_included: 9730
   rev_screen: 6998
   rev_synthesized: 6998
