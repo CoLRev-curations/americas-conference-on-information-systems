@@ -5,8 +5,8 @@ currently:
   exclusion: {}
   md_duplicates_removed: 7290
   md_imported: 0
-  md_needs_manual_preparation: 644
-  md_prepared: 2740
+  md_needs_manual_preparation: 645
+  md_prepared: 2739
   md_processed: 0
   md_retrieved: 0
   non_completed: 6431
@@ -26,7 +26,7 @@ nr_curated_records: 10109
 overall:
   md_imported: 13493
   md_needs_manual_preparation: 13493
-  md_prepared: 12849
+  md_prepared: 12848
   md_processed: 10109
   md_retrieved: 20783
   pdf_imported: 6983
