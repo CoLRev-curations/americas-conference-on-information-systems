@@ -76,9 +76,6 @@
                         "endpoint": "colrev.exclude_complementary_materials"
                     },
                     {
-                        "endpoint": "colrev.exclude_languages"
-                    },
-                    {
                         "endpoint": "colrev.remove_urls_with_500_errors"
                     },
                     {
